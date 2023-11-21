@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tailor-portfolio/static/css/main.7d9af6b7.css",
+    "main.js": "/tailor-portfolio/static/js/main.e88c1773.js",
+    "index.html": "/tailor-portfolio/index.html",
+    "static/media/mask.svg": "/tailor-portfolio/static/media/mask.be84fa40374fd0b18c76.svg",
+    "main.7d9af6b7.css.map": "/tailor-portfolio/static/css/main.7d9af6b7.css.map",
+    "main.e88c1773.js.map": "/tailor-portfolio/static/js/main.e88c1773.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d9af6b7.css",
+    "static/js/main.e88c1773.js"
+  ]
+}
